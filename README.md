@@ -13,13 +13,13 @@
         <p style="text-align:justify;">Determine the main objectives of the organization related to the project;</p>
     </li>
     <li>
-        <p style="text-align:justify;">Analyze the current scenario and identify challenges or opportunities related to treasury management;</p>
+        <p style="text-align:justify;">Analyze the current scenario and identify challenges or opportunities;</p>
     </li>
     <li>
-        <p style="text-align:justify;">Conduct an in-depth analysis of treasury management concepts, identifying challenges related to forecasting invoice payment dates;</p>
+        <p style="text-align:justify;">Conduct an in-depth analysis;</p>
     </li>
     <li>
-        <p style="text-align:justify;">Clearly define the objectives of data mining in the context of treasury management;</p>
+        <p style="text-align:justify;">Clearly define the objectives of data mining in the context of the project;</p>
     </li>
     <li>
         <p style="text-align:justify;">Develop a detailed plan outlining the phases and tasks to be carried out during the project.</p>
