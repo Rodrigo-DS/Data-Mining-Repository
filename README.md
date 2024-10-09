@@ -1,9 +1,11 @@
 <h1 style="text-align:justify;">Repository with data mining methodologies</h1>
 <h4 style="text-align:justify;">In this repository, you'll find my approach to generating solutions for data mining projects. I follow the widely-used CRISP-DM methodology, as outlined in the image below. It provides an overview of the typical phases of a project, the tasks associated with each phase, and an explanation of how these tasks interconnect.</h4>
 <figure class="image" data-ckbox-resource-id="sQTij5pLY_TL">
+    <center>
     <picture>
         <source srcset="https://github.com/Rodrigo-DS/Data-Mining-Repository/blob/b913f17ebe063a41725081167c55ff0b69eb3529/images/crisp_process.jpg" type="image/webp" sizes="(max-width: 514px) 100vw, 514px"><img src="https://github.com/Rodrigo-DS/Data-Mining-Repository/blob/b913f17ebe063a41725081167c55ff0b69eb3529/images/crisp_process.jpg" width="514" height="514">
     </picture>
+    </center>
 </figure>
 <h5 style="text-align:justify;">1. Business Understanding<br>&nbsp;</h5>
 <ul>
