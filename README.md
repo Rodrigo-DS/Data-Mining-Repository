@@ -111,7 +111,7 @@
 <h6 style="text-align:justify;">4. Data Modeling for Machine Learning</h6>
 <p style="text-align:justify;">Data Modeling is a process of the Crisp-dm methodology that aims to estimate the inherent structure of a dataset to reveal valuable patterns and predict unseen instances. Remember, Crisp-dm is an interactive process. This step needs to be complemented by the previous step (data preparation).</p>
 <p style="text-align:justify;">At this step we need to choose the correct machine learning algorithms according to our objectives. In the following diagram we can see all the possible options:&nbsp;</p>
-<figure class="image" data-ckbox-resource-id="qeaEbSmAbOcG">
+<figure class="image" style="width:50%;" data-ckbox-resource-id="qeaEbSmAbOcG">
     <picture>
         <source srcset="https://github.com/Rodrigo-DS/Data-Mining-Repository/blob/d06c8f0ef804ce05db2b5ab52829d28f9c8b0b03/images/machine-learning-types-infographics_1.png" type="image/webp" sizes="(max-width: 2880px) 100vw, 2880px"><img src="https://github.com/Rodrigo-DS/Data-Mining-Repository/blob/d06c8f0ef804ce05db2b5ab52829d28f9c8b0b03/images/machine-learning-types-infographics_1.png" width="2880" height="1304">
     </picture>
